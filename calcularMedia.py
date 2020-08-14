@@ -1,5 +1,6 @@
 """
 Crie um programa que leia duas listas do teclado, correspondentes às notas de provas e de exercícios dos estudantes, normaliza cada nota dividindo-se a nota pelo máximo da lista correspondente e computa a média final de cada estudante, que é dada pela média geométrica entre a nota de prova e de exercícios.
+ESTE ARQUIVO FOI MODIFICADO DENTRO DO GITHUB DESKTOP LINUX
 """
 lista_provas = [] # Cria uma lista com as notas das provas
 lista_exercicios = [] # Cria uma lista com as notas dos exercícios
